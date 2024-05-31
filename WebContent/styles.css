@@ -3,8 +3,9 @@
 }
 
 body {
-	background-image: url("bg (2).jpg");
+	background-image: url("bgk.jpg");
 	font-family: 'Segoe UI','Open Sans', 'Helvetica Neue', sans-serif;
+	background-size: cover;
 }
 
 #topmid {
